@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+
+<html>
+	<head>
+		<title>UniBo Better Timetable</title>
+		<link rel="stylesheet" href="src/style.css" />
+	</head>
+	<body>
+		<div id="content">
+			<div class="separator">
+				<h2>UniBo Better Timetable</h2>
+			</div>
+			<hr />
+			<div class="row">
+				<div class="column left">
+					<ul>
+						<li>
+							<label for="cal_mon" id="lbl_mon" class="cal-label"
+								>Monday</label
+							>
+							<ul id="cal_mon"></ul>
+						</li>
+						<li>
+							<label for="cal_tue" id="lbl_tue" class="cal-label"
+								>Tuesday</label
+							>
+							<ul id="cal_tue"></ul>
+						</li>
+						<li>
+							<label for="cal_wed" id="lbl_wed" class="cal-label"
+								>Wednesday</label
+							>
+							<ul id="cal_wed"></ul>
+						</li>
+						<li>
+							<label for="cal_thu" id="lbl_thu" class="cal-label"
+								>Thursday</label
+							>
+							<ul id="cal_thu"></ul>
+						</li>
+						<li>
+							<label for="cal_fri" id="lbl_fri" class="cal-label"
+								>Friday</label
+							>
+							<ul id="cal_fri"></ul>
+						</li>
+					</ul>
+				</div>
+
+				<div class="column right">
+					<div class="card container">
+						<label for="date_start"
+							>Day from the week of interest</label
+						>
+						<input type="date" id="date_start" name="date_start" />
+
+						<br />
+
+						<input
+							type="button"
+							value="Filter"
+							id="btn"
+							class="btn"
+						/>
+
+						<br />
+						<br />
+
+						<ul id="courses_list"></ul>
+					</div>
+				</div>
+			</div>
+		</div>
+
+		<script
+			src="https://code.jquery.com/jquery-3.6.1.min.js"
+			integrity="sha256-o88AwQnZB+VDvE9tvIXrMQaPlFFSUTR+nldQm1LuPXQ="
+			crossorigin="anonymous"
+		></script>
+
+		<script src="src/index.js"></script>
+	</body>
+</html>

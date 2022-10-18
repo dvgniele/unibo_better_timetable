@@ -1,0 +1,262 @@
+{
+    "Curricula": [
+        {
+            "name": "A",
+            "url": [
+                {
+                    "uri": "https://corsi.unibo.it/magistrale/informatica/orario-lezioni/@@orario_reale_json?anno=1&curricula=A58-000"
+                },
+                {
+                    "uri": "https://corsi.unibo.it/magistrale/informatica/orario-lezioni/@@orario_reale_json?anno=2&curricula=A58-000"
+                }    
+            ],
+            "courses": [
+                {
+                    "name": "COMPLEMENTI DI BASI DI DATI",
+                    "cod_modulo": "28796"
+                },
+                {
+                    "name": "COMPLEMENTI DI LINGUAGGI DI PROGRAMMAZIONE",
+                    "cod_modulo": "72671"
+                },
+                {
+                    "name": "CRYPTOGRAPHY",
+                    "cod_modulo": "93467"
+                },
+                {
+                    "name": "EMERGING PROGRAMMING PARADIGMS",
+                    "cod_modulo": "81672"
+                },
+                {
+                    "name": "INTELLIGENZA ARTIFICIALE",
+                    "cod_modulo": "81940"
+                },
+                {
+                    "name": "MACHINE LEARNING",
+                    "cod_modulo": "81610"
+                },
+                {
+                    "name": "SCALABLE AND CLOUD PROGRAMMING",
+                    "cod_modulo": "81942"
+                },
+                {
+                    "name": "USABILITY & USER EXPERIENCE DESIGN",
+                    "cod_modulo": "90720"
+                }
+            ]
+        },
+        {
+            "name": "B",
+            "url": [
+                {
+                    "uri": "https://corsi.unibo.it/magistrale/informatica/orario-lezioni/@@orario_reale_json?anno=1&curricula=991-000"
+                },
+                {
+                    "uri": "https://corsi.unibo.it/magistrale/informatica/orario-lezioni/@@orario_reale_json?anno=2&curricula=991-000"
+                }    
+            ],
+            "courses": [
+                {
+                    "name": "BLOCKCHAIN AND CRYPTOCURRENCIES",
+                    "cod_modulo": "90748"
+                },
+                {
+                    "name": "COMPLEMENTI DI BASI DI DATI",
+                    "cod_modulo": "28796"
+                },
+                {
+                    "name": "COMPLEMENTI DI LINGUAGGI DI PROGRAMMAZIONE",
+                    "cod_modulo": "72671"
+                },
+                {
+                    "name": "COMPLEX SYSTEMS & NETWORK SCIENCE / (1) Modulo 1",
+                    "cod_modulo": "81943_1"
+                },
+                {
+                    "name": "DATA ANALYTICS / (1) Modulo 1",
+                    "cod_modulo": "90733_1"
+                },
+                {
+                    "name": "DATA ANALYTICS / (2) Modulo 2",
+                    "cod_modulo": "90733_2"
+                },
+                {
+                    "name": "INTELLIGENZA ARTIFICIALE",
+                    "cod_modulo": "81940"
+                },
+                {
+                    "name": "USABILITY & USER EXPERIENCE DESIGN",
+                    "cod_modulo": "90720"
+                }
+            ]
+            
+        },
+        {
+            "name": "C",
+            "url": [
+                {
+                    "uri": "https://corsi.unibo.it/magistrale/informatica/orario-lezioni/@@orario_reale_json?anno=1&curricula=992-000"
+                },
+                {
+                    "uri": "https://corsi.unibo.it/magistrale/informatica/orario-lezioni/@@orario_reale_json?anno=2&curricula=992-000"
+                }    
+            ],
+            "courses": [
+                {
+                    "name": "COMPLEMENTI DI BASI DI DATI",
+                    "cod_modulo": "28796"
+                },
+                {
+                    "name": "COMPLEMENTI DI LINGUAGGI DI PROGRAMMAZIONE",
+                    "cod_modulo": "72671"
+                },
+                {
+                    "name": "CYBERSECURITY",
+                    "cod_modulo": "93470"
+                },
+                {
+                    "name": "DISTRIBUTED SOFTWARE SYSTEMS",
+                    "cod_modulo": "93468"
+                },
+                {
+                    "name": "INTELLIGENZA ARTIFICIALE",
+                    "cod_modulo": "81940"
+                },
+                {
+                    "name": "USABILITY & USER EXPERIENCE DESIGN",
+                    "cod_modulo": "90720"
+                }
+            ]
+        },
+        {
+            "name": "Optional",
+            "url": [
+                {
+                    "uri": null
+                },
+                {
+                    "uri": null
+                }    
+            ],
+            "courses": [
+                {
+                    "name": "ARTIFICIAL INTELLIGENCE, BLOCKCHAIN E CRIPTOVALUTE NELLO SVILUPPO SOFTWARE ",
+                    "cod_modulo": "B1459"
+                },
+                {
+                    "name": "COMPUTER GRAPHICS",    
+                    "cod_modulo": "70090"   
+                },
+                {
+                    "name": "COMPUTER VISION",
+                    "cod_modulo": "93478"
+                },
+                {   
+                    "name": "DECISION MAKING WITH CONSTRAINT PROGRAMMING",
+                    "cod_modulo": "87469"
+                },
+                {   
+                    "name": "DIDATTICA DELL'INFORMATICA",
+                    "cod_modulo": "90749"
+                },
+                {   
+                    "name": "DIGITAL FORENSICS",
+                    "cod_modulo": "81676"
+                },
+                {
+                    "name": "FISICA DEI SISTEMI COMPLESSI",
+                    "cod_modulo": "23762"
+                },
+                {
+                    "name": "FONDAMENTI LOGICI DELL'INFORMATICA / (1) Modulo 1",
+                    "cod_modulo": "30214_1"
+                },
+                {   
+                    "name": "INGEGNERIA DEL SOFTWARE ORIENTATA AI SERVIZI",
+                    "cod_modulo": "77803"
+                },
+                {
+                    "name": "INTERNET OF THINGS",
+                    "cod_modulo": "81683"
+                },
+                {
+                    "name": "LABORATORIO DI MAKING",
+                    "cod_modulo": "81678"
+                },
+                {
+                    "name": "LABORATORIO DI REALTA' VIRTUALE E REALTA' AUMENTATA",
+                    "cod_modulo": "91721"
+                },
+                {
+                    "name": "MATEMATICA COMPUTAZIONALE",    
+                    "cod_modulo": "12569"   
+                },
+                {   
+                    "name": "MODELLI E  SISTEMI CONCORRENTI",
+                    "cod_modulo": "66870"
+                },
+                {
+                    "name": "MODELLI PROBABILISTICI",   
+                    "cod_modulo": "30216"   
+                },
+                {
+                    "name": "NATURAL LANGUAGE PROCESSING",
+                    "cod_modulo": "91258"
+                },
+                {   
+                    "name": "SIMULAZIONE DI SISTEMI",
+                    "cod_modulo": "37760"
+                },
+                {
+                    "name": "SISTEMI CONTEXT-AWARE",
+                    "cod_modulo": "84401"
+                },
+                {
+                    "name": "SOCIAL NETWORK ANALYSIS",
+                    "cod_modulo": "90730"
+                }        
+            ]
+        },
+        {
+            "name": "mine🥰",
+            "url": [
+                {
+                    "uri": null
+                },
+                {
+                    "uri": null
+                }    
+            ],
+            "courses": [
+                {
+                    "name": "DATA ANALYTICS / (1) Modulo 1",
+                    "cod_modulo": "90733_1"
+                },
+                {
+                    "name": "DATA ANALYTICS / (2) Modulo 2",
+                    "cod_modulo": "90733_2"
+                },
+                {
+                    "name": "EMERGING PROGRAMMING PARADIGMS",
+                    "cod_modulo": "81672"
+                },
+                {
+                    "name": "LABORATORIO DI REALTA' VIRTUALE E REALTA' AUMENTATA",
+                    "cod_modulo": "91721"
+                },
+                {
+                    "name": "MACHINE LEARNING",
+                    "cod_modulo": "81610"
+                },
+                {
+                    "name": "NATURAL LANGUAGE PROCESSING",
+                    "cod_modulo": "91258"
+                },
+                {
+                    "name": "SCALABLE AND CLOUD PROGRAMMING",
+                    "cod_modulo": "81942"
+                }
+            ]
+        }
+    ]
+}
