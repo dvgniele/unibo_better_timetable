@@ -144,12 +144,25 @@ input[type="checkbox"] {
 	height: 300px; /* Should be removed. Only for demonstration */
 }
 
+/*
 .left {
-	width: 60%;
+	width: 40%;
+    max-width: fit-content;
 }
 
 .right {
-	width: 40%;
+	width: 60%;
+}
+*/
+
+.left{
+    width: 40%;
+    height: auto;
+}
+
+.right{
+    width: 60%;
+    height: auto;
 }
 
 /* Clear floats after the columns */
@@ -178,4 +191,16 @@ hr {
 
 .cal-label {
     font-size: larger;
+}
+
+@media only screen and (max-width: 800px), only screen and (max-device-width: 800px) {  
+    .left{
+        width: auto;
+        height: auto;
+    }
+
+    .right{
+        width: auto;
+        height: auto;
+    }
 }

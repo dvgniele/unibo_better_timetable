@@ -4,6 +4,7 @@
 	<head>
 		<title>UniBo Better Timetable</title>
 		<link rel="stylesheet" href="src/style.css" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
 	</head>
 	<body>
 		<div id="content">
@@ -12,7 +13,27 @@
 			</div>
 			<hr />
 			<div class="row">
-				<div class="column left">
+                <div class="column left">
+					<div class="card container">
+						<label for="date_start"
+							>Day from the week of interest</label
+						>
+						<input type="date" id="date_start" name="date_start" />
+
+						<br />
+
+						<input
+							type="button"
+							value="Filter"
+							id="btn"
+							class="btn"
+						/>
+
+						<ul id="courses_list"></ul>
+					</div>
+				</div>
+                        
+				<div class="column right">
 					<ul>
 						<li>
 							<label for="cal_mon" id="lbl_mon" class="cal-label"
@@ -47,25 +68,7 @@
 					</ul>
 				</div>
 
-				<div class="column right">
-					<div class="card container">
-						<label for="date_start"
-							>Day from the week of interest</label
-						>
-						<input type="date" id="date_start" name="date_start" />
 
-						<br />
-
-						<input
-							type="button"
-							value="Filter"
-							id="btn"
-							class="btn"
-						/>
-
-						<ul id="courses_list"></ul>
-					</div>
-				</div>
 			</div>
 		</div>
 
