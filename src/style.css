@@ -203,4 +203,8 @@ hr {
         width: auto;
         height: auto;
     }
+
+    ul {
+        padding: 0;
+    }
 }
