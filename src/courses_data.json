@@ -241,10 +241,6 @@
                     "cod_modulo": "81672"
                 },
                 {
-                    "name": "LABORATORIO DI REALTA' VIRTUALE E REALTA' AUMENTATA",
-                    "cod_modulo": "91721"
-                },
-                {
                     "name": "MACHINE LEARNING",
                     "cod_modulo": "81610"
                 },
@@ -255,7 +251,11 @@
                 {
                     "name": "SCALABLE AND CLOUD PROGRAMMING",
                     "cod_modulo": "81942"
-                }
+                },
+                {
+                    "name": "SOCIAL NETWORK ANALYSIS",
+                    "cod_modulo": "90730"
+                }  
             ]
         }
     ]
